@@ -1,0 +1,4 @@
+interface:
+  display_name: "火火小红书AI文案爆单大师"
+  short_description: "火火出品，四种模式引导学员生成真人感小红书爆单文案"
+  default_prompt: "使用 $huohuo-xiaohongshu-ai-copywriting-master 引导我选择模式并生成一篇小红书爆单文案。"
