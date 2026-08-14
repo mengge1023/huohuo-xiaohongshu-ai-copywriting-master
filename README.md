@@ -15,29 +15,19 @@
 
 ## 安装方法
 
-下载仓库后，将下面这个完整目录复制到 Codex 的技能目录：
+本技能面向 **WorkBuddy** 使用。推荐前往仓库的 Releases 页面下载已经打包好的 ZIP，然后在 WorkBuddy 的技能管理页面选择导入或安装本地技能包。
+
+如果当前 WorkBuddy 版本要求导入解压后的目录，请先解压 ZIP，再选择下面这个完整目录：
 
 ```text
 huohuo-xiaohongshu-ai-copywriting-master/
 ```
 
-默认技能目录通常是：
-
-```text
-~/.codex/skills/
-```
-
-最终目录结构应为：
-
-```text
-~/.codex/skills/huohuo-xiaohongshu-ai-copywriting-master/SKILL.md
-```
-
-也可以前往仓库的 Releases 页面下载已经打包好的 ZIP，解压后安装。
+导入后，确认 WorkBuddy 能识别目录中的 `SKILL.md`，即可开始使用。
 
 ## 使用示例
 
-安装后，可以这样发起任务：
+安装后，可以在 WorkBuddy 中这样发起任务：
 
 ```text
 使用火火小红书 AI 文案爆单大师，帮我根据这篇对标笔记为自己的产品写一篇小红书文案。
